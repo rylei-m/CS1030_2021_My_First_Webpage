@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+body {
+  background-color: #260040;
+  font-family: tahoma;
+}
+
+#container{
+  width: 800px;
+  margin: auto;
+  padding: 20px;
+  background-color: #ff1f1f;
+}
+header{
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    padding: 30px;
+}
+h1{
+  font-size:48pt;
+  text-shadow: 4px 4px 2px #000;
+  color:azure;
+  text-align: center;
+}
+h2{
+    text-align: center;
+    color: bisque;
+}
+a{
+  text-decoration: none;
+  color: aliceblue;
+}
+a:hover{
+  color: aquamarine;
+}
